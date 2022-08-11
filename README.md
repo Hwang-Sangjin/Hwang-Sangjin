@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 [![Solved.ac magpies1221](http://mazassumnida.wtf/api/v2/generate_badge?boj=magpies1221)](https://solved.ac/magpies1221)
 
