@@ -5,4 +5,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang-Sangjin&show_icons=true&theme=radical)
 
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:[본인의 메일주소](https://velog.io/@magpies1221))]([본인의 메일주소](https://velog.io/@magpies1221))
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=mailto:https://velog.io/@magpies1221)](https://velog.io/@magpies1221)
